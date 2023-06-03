@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    scroll-behavior: smooth;
+}
+:root{
+    --blue: #090c31;
+    --purple:#5853ff;
+    --dark: rgb(44, 44, 44) ;
+}
+ 
+.section-padding{
+    padding: 5rem;
+}

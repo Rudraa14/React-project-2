@@ -1,0 +1,21 @@
+.sticky-top{
+    background-color: white;
+    z-index: 10;
+    height: 5.6rem;
+}
+
+.navbar h1{
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.navbar .nav-link{
+    color: var(--blue);
+    margin: 1rem;
+    text-transform: uppercase;
+    font-size: 1.7rem;
+    font-weight: 600;
+}
+
+.navbar .nav-link:hover{
+    color: var(--purple);
+}
